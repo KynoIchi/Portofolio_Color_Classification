@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 17 15:43:46 2019
-@author: Metin Mert Akçay
-"""
+
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import confusion_matrix
 from scipy.stats import skew, kurtosis
